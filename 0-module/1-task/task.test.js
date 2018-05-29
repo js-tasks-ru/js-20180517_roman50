@@ -7,3 +7,7 @@ describe("0-module-1-task", function() {
     });
 
 });
+
+function sum(a,b) {
+	return a + b;
+}
